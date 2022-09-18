@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/learning-go-book/formatter"
+	"github.com/learning-go-book-2e/formatter"
 	"github.com/shopspring/decimal"
 )
 

@@ -1,3 +1,3 @@
-module github.com/learning-go-book/money
+module github.com/learning-go-book-2e/money
 
-go 1.15
+go 1.19
